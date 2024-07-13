@@ -436,25 +436,25 @@ footer .itemsFooter .socialMedia svg {
 }
 @font-face {
   font-family: "Open Sans";
-  src: url(OpenSans-Regular.ttf) format("truetype");
+  src: url(./fonts/OpenSans-Regular.ttf) format("truetype");
   font-style: normal;
   font-weight: 400;
 }
 @font-face {
   font-family: "Open Sans";
-  src: url(OpenSans-Bold.ttf) format("truetype");
+  src: url(./fonts/OpenSans-Bold.ttf) format("truetype");
   font-style: normal;
   font-weight: 700;
 }
 @font-face {
   font-family: "Raleway";
-  src: url(OpenSans-Regular.ttf) format("truetype");
+  src: url(./fonts/Raleway-Regular.ttf) format("truetype");
   font-style: normal;
   font-weight: 400;
 }
 @font-face {
   font-family: "Raleway";
-  src: url(OpenSans-Bold.ttf) format("truetype");
+  src: url(./fonts/Raleway-Bold.ttf) format("truetype");
   font-style: normal;
   font-weight: 700;
 }/*# sourceMappingURL=style.css.map */
